@@ -1,0 +1,100 @@
+{
+  "app": {
+    "title": "Smart Tourist Safety",
+    "tagline": "Your Safety, Our Priority"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phoneNumber": "Phone Number",
+    "forgotPassword": "Forgot Password?",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "createAccount": "Create Account",
+    "signIn": "Sign In"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "safetyScore": "Safety Score",
+    "currentLocation": "Current Location",
+    "alerts": "Active Alerts",
+    "noAlerts": "No active alerts",
+    "panicButton": "Emergency SOS",
+    "quickActions": "Quick Actions"
+  },
+  "profile": {
+    "title": "Profile",
+    "digitalId": "Digital Tourist ID",
+    "kycStatus": "KYC Status",
+    "tripDetails": "Trip Details",
+    "emergencyContact": "Emergency Contact",
+    "editProfile": "Edit Profile",
+    "verified": "Verified",
+    "pending": "Pending",
+    "rejected": "Rejected"
+  },
+  "alerts": {
+    "title": "Alerts & Notifications",
+    "markAsRead": "Mark as Read",
+    "acknowledge": "Acknowledge",
+    "noAlerts": "No alerts to display",
+    "severity": {
+      "info": "Info",
+      "warning": "Warning",
+      "danger": "Danger"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "notifications": "Notifications",
+    "privacy": "Privacy",
+    "locationTracking": "Location Tracking",
+    "safetyAlerts": "Safety Alerts",
+    "locationUpdates": "Location Updates",
+    "incidentReports": "Incident Reports",
+    "about": "About"
+  },
+  "map": {
+    "yourLocation": "Your Location",
+    "safeZone": "Safe Zone",
+    "riskZone": "Risk Zone",
+    "restrictedZone": "Restricted Zone"
+  },
+  "incident": {
+    "reportIncident": "Report Incident",
+    "type": "Incident Type",
+    "description": "Description",
+    "severity": "Severity",
+    "submit": "Submit Report",
+    "types": {
+      "panic": "Panic/Emergency",
+      "medical": "Medical Emergency",
+      "theft": "Theft/Robbery",
+      "harassment": "Harassment",
+      "accident": "Accident",
+      "natural_disaster": "Natural Disaster"
+    }
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "back": "Back",
+    "next": "Next",
+    "finish": "Finish"
+  }
+}

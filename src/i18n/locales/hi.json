@@ -1,0 +1,57 @@
+{
+  "app": {
+    "title": "स्मार्ट पर्यटक सुरक्षा",
+    "tagline": "आपकी सुरक्षा, हमारी प्राथमिकता"
+  },
+  "auth": {
+    "login": "लॉग इन करें",
+    "register": "पंजीकरण करें",
+    "logout": "लॉग आउट करें",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "firstName": "प्रथम नाम",
+    "lastName": "अंतिम नाम",
+    "phoneNumber": "फोन नंबर",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "dontHaveAccount": "कोई खाता नहीं है?",
+    "alreadyHaveAccount": "पहले से खाता है?",
+    "createAccount": "खाता बनाएं",
+    "signIn": "साइन इन करें"
+  },
+  "dashboard": {
+    "welcome": "वापसी पर स्वागत है",
+    "safetyScore": "सुरक्षा स्कोर",
+    "currentLocation": "वर्तमान स्थान",
+    "alerts": "सक्रिय अलर्ट",
+    "noAlerts": "कोई सक्रिय अलर्ट नहीं",
+    "panicButton": "आपातकालीन SOS",
+    "quickActions": "त्वरित कार्य"
+  },
+  "profile": {
+    "title": "प्रोफाइल",
+    "digitalId": "डिजिटल पर्यटक ID",
+    "kycStatus": "KYC स्थिति",
+    "tripDetails": "यात्रा विवरण",
+    "emergencyContact": "आपातकालीन संपर्क",
+    "editProfile": "प्रोफाइल संपादित करें",
+    "verified": "सत्यापित",
+    "pending": "लंबित",
+    "rejected": "अस्वीकृत"
+  },
+  "common": {
+    "save": "सेव करें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "confirm": "पुष्टि करें",
+    "yes": "हाँ",
+    "no": "नहीं",
+    "back": "वापस",
+    "next": "अगला",
+    "finish": "समाप्त"
+  }
+}
